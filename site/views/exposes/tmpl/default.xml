@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_IDS_EXPOSE_TITLE_LIST_VIEW_EXPOSES" option="View">
+        <message>
+                        <![CDATA[COM_IDS_EXPOSE_TITLE_FORM_VIEW_EXPOSES_DESC]]>
+        </message>
+	</layout>
+</metadata>
